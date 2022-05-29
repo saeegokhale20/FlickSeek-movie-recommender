@@ -1,8 +1,0 @@
-Pillow
-numpy
-pandas
-requests
-streamlit
-
-
-
